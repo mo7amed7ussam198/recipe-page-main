@@ -1,0 +1,55 @@
+*{
+margin: 20px;
+padding: 0;
+}
+
+body{
+background-color: aquamarine;
+}
+
+.recipe{
+font-family: comic, sans MS ,comic sans, cursive;
+background-color:white;
+width: 700px;
+margin: 50px auto;
+border: 1px solid white;
+border-radius: 25px;
+font-size: 15px;
+}
+
+h2{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.preparation{
+background-color: lightblue;
+width: auto;
+margin: 100 auto;
+border: 1px solid lightblue;
+border-radius: 5px;
+}
+h3{
+    color:indigo;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+
+}
+p{
+    text-align: center;
+}
+ .bold{
+    font-weight: bold;
+    margin: 0;
+    color: red;
+ }
+.col-sm{
+    margin: 0;
+    text-align: center;
+}
+
+.attribution{
+    font-family: 'Times New Roman', Times, serif;
+}
